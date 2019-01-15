@@ -1,0 +1,12 @@
+[submodule "dmd"]
+	path = dmd
+	url = https://github.com/dlang/dmd
+[submodule "phobos"]
+	path = phobos
+	url = https://github.com/dlang/phobos
+[submodule "druntime"]
+	path = druntime
+	url = https://github.com/dlang/druntime
+[submodule "dub"]
+	path = dub
+	url = https://github.com/dlang/dub
